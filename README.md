@@ -12,7 +12,7 @@ https://webxr-vr.netlify.app/
 - [WebXR API](https://immersiveweb.dev/)
 
 ## Server
-https://github.com/
+https://github.com/Shupta-das/webxr-glitch-server-main
 
 ## Gameplay
-https://drive.google.com/
+https://drive.google.com/file/d/1jILmwnQWKmGdf-WlT0h_mFKz5NMkfhzL/view?usp=sharing
